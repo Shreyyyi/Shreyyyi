@@ -2,7 +2,7 @@
 
 ### 🚀 First-Year Engineering Student | Open Source Enthusiast | Web Developer
 
-I'm a Computer Science student at **IGDTUW**, passionate about building impactful solutions through technology. Currently exploring **Web Development, Data Structures & Algorithms, Open Source, and Hackathons** while continuously learning and growing as a developer.
+I'm a Electronics and Communication Engineering (AI) student at **IGDTUW**, passionate about building impactful solutions through technology. Currently exploring **Web Development, Data Structures & Algorithms, Open Source, and Hackathons** while continuously learning and growing as a developer.
 
 ---
 
