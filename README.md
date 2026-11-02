@@ -107,7 +107,7 @@ As part of **Tribe Alpha**, worked on **ReGen** — an initiative exploring sust
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyyyi&theme=dark)](https://git.io/streak-stats)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyyyi?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Shreyyy17?theme=dark&font=Ubuntu%20Mono&ext=heatmap)
 
 
 
